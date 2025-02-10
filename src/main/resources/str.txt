@@ -1,0 +1,9 @@
+tinstitution, institutionid, brief
+tEntAttrValue, Value, AttributeID, ObjectID
+tCntParams, CntParamsID, SysName
+tDeal, TradingSysID, InstrumentID
+tInstRelation_BAK, InstRelationID, Brief, DocName, InstRelTypeID, InstParentID
+tConfigParam, ID, SysName
+tInstrument, InstrumentID
+tObjClsRelation, ObjectID, ObjClassifierID
+tObjClassifier, ObjClassifierID, NAME, ParentID
